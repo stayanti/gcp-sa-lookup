@@ -1,0 +1,12 @@
+# Ignore generated CSV files
+*.csv
+
+# Ignore binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore IDE specific files
+.vscode/
+.idea/ 
